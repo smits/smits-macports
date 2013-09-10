@@ -2,7 +2,7 @@ Various Portfiles for installation of Orocos on OS X.
 
 Using This Repository
 =====================
-The following steps will allow you to use the portfiles in this repository with your local macports installation. Please replace /Users/kyonifer with your local home directory as appropriate.
+The following steps will allow you to use the portfiles in this repository with your local macports installation. Please replace /Users/vm with your local home directory as appropriate.
 
 1. Clone the repository locally:
 
