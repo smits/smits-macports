@@ -1,0 +1,2 @@
+lua51 441
+variants universal portdir lang/lua description {powerful, lightweight programming language} homepage http://www.lua.org epoch 0 platforms darwin depends_lib port:readline name lua51 long_description {Lua is a powerful, light-weight programming language designed for extending applications. Lua is also frequently used as a general-purpose, standalone language.} maintainers nomaintainer license MIT categories lang version 5.1.4 revision 4
